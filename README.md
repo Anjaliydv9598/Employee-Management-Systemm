@@ -69,8 +69,13 @@ This project is designed to showcase backend development skills using Java, Hibe
 ### 🗄️ Database Records
 ![Database Output](images/db-output.png)
 
-### 💰 Employees with Salary > 50000
-![Salary Filter](images/salary-filter.png)
+## 📸 Screenshots
+
+![Screenshot](Screenshot%202026-05-29%20at%206.05.29%20AM.png)
+
+![Employee Table](Employeetableuppdated%202026-05-29%20at%206.05.29%20AM.png)
+
+![High Salary](HigherSalaryThan%2050000.png)
 
 ### ❌ Delete Operation
 ![Delete Output](images/delete-operation.png)
