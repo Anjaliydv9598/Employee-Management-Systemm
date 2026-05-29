@@ -77,8 +77,15 @@ This project is designed to showcase backend development skills using Java, Hibe
 
 ![High Salary](HigherSalaryThan%2050000.png)
 
+## 💻 Updated Employee Data (Eclipse)
+![Eclipse Output](UpdatedEmployeeDataInEclipse.png)
+
+
 ### ❌ Delete Operation
 ![Delete Output](images/delete-operation.png)
+## 🗑️ After Deleting Employee
+![After Delete](AfterDeletingEmployeeDetail.png)
+
 
 ## 👨‍💻 Author
 
